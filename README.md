@@ -1,7 +1,7 @@
 class Echo {
     int count = 0;
     void hello() {
-        System.out.println("привееееет... advocade 1234НННННННН");
+        System.out.println("привееееет... 000000000");
     }
 }
 class EchoTestDrive {
