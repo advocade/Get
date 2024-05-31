@@ -1,7 +1,7 @@
 class Echo {
     int count = 0;
     void hello() {
-        System.out.println("привееееет... 000000000");
+        System.out.println("привееееет... новий 14.04");
     }
 }
 class EchoTestDrive {
